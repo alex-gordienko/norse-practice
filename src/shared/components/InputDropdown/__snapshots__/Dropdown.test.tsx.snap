@@ -1,0 +1,282 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Function tests Simulate user's input 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          style="position: relative; width: 218px; margin: auto;"
+        >
+          <input
+            class="css-kh3tdn"
+            data-testid="input"
+            type="text"
+            value=""
+          />
+        </div>
+        <b>
+          Selected value: 
+          
+        </b>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        style="position: relative; width: 218px; margin: auto;"
+      >
+        <input
+          class="css-kh3tdn"
+          data-testid="input"
+          type="text"
+          value=""
+        />
+      </div>
+      <b>
+        Selected value: 
+        
+      </b>
+    </div>
+  </div>,
+  "debug": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllBySelectText": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getAllByValue": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getBySelectText": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "getByValue": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllBySelectText": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryAllByValue": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryBySelectText": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "queryByValue": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Function tests Simulate user's input 2`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          style="position: relative; width: 218px; margin: auto;"
+        >
+          <input
+            class="css-kh3tdn"
+            data-testid="input"
+            type="text"
+            value="1"
+          />
+          <div
+            class="css-1ge0nle"
+          >
+            <div
+              class="css-a6qaev"
+              data-testid="test1"
+            >
+              test1
+            </div>
+          </div>
+        </div>
+        <b>
+          Selected value: 
+          
+        </b>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        style="position: relative; width: 218px; margin: auto;"
+      >
+        <input
+          class="css-kh3tdn"
+          data-testid="input"
+          type="text"
+          value="1"
+        />
+        <div
+          class="css-1ge0nle"
+        >
+          <div
+            class="css-a6qaev"
+            data-testid="test1"
+          >
+            test1
+          </div>
+        </div>
+      </div>
+      <b>
+        Selected value: 
+        
+      </b>
+    </div>
+  </div>,
+  "debug": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllBySelectText": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getAllByValue": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getBySelectText": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "getByValue": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllBySelectText": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryAllByValue": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryBySelectText": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "queryByValue": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Function tests Simulate user's input 3`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          style="position: relative; width: 218px; margin: auto;"
+        >
+          <input
+            class="css-kh3tdn"
+            data-testid="input"
+            type="text"
+            value="test1"
+          />
+        </div>
+        <b>
+          Selected value: 
+          test1
+        </b>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        style="position: relative; width: 218px; margin: auto;"
+      >
+        <input
+          class="css-kh3tdn"
+          data-testid="input"
+          type="text"
+          value="test1"
+        />
+      </div>
+      <b>
+        Selected value: 
+        test1
+      </b>
+    </div>
+  </div>,
+  "debug": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllBySelectText": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getAllByValue": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getBySelectText": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "getByValue": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllBySelectText": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryAllByValue": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryBySelectText": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "queryByValue": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
